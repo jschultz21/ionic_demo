@@ -29,17 +29,21 @@ Ionic.io (formly drifty)
 ## What are the biggest conceptual hurdles (if any) you encountered when researching this?
 * The installation was a bit frustrating if you did not originally have xcode - need to download first which takes a lot of time, but need it to view from mobile POV
 * The tags and classes - very specific to what  it does in the view 
+
 ## What resources do you recommend for interested students?
 * Documentation is awesome!
 * http://ionicframework.com/
-* Awesome tutorials - very detailed and very good installation directions 
+* Awesome tutorials - very detailed and very good installation directions
+
 ## What article or forum was most helpful to you in learning this?
 * The official documentation as mentioned above 
 * Also this lib for css components : http://ionicframework.com/docs/components/
 ## What are 3 interview questions one might be asked about this technology?
+
 questions : 
 1 What languages/ frameworks does this tech utilize 
 2 Also, please include the instructions necessary to…
+
 ## To install: 
 * (dowload xcode from app store) 
 * ``$ npm install -g ionic`` 
