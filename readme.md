@@ -4,10 +4,10 @@ We are interested in getting our web applications to mobile. Wanted an introduct
 ## How were you first made aware of it?
 When We was looking at alternative for Swift. (also Nick )
 ##What problem does it solve?/ How does it solve the problem (conceptually)?
-Writing a mobile app. 
-Low Barrier to entry to mobile platform. Don't have to write new code specific to mobile app.
-Very easy to transfer web apps using angular to mobile. Also very user-experience oriented  - a clean and easy solution to make mobile apps fast 
-Before this, very different skills / language to create a mobile app - this integrates the process using html, css and javascript
+* Writing a mobile app. 
+* Low Barrier to entry to mobile platform. Don't have to write new code specific to mobile app.
+* Very easy to transfer web apps using angular to mobile. Also very user-experience oriented  - a clean and easy solution to make mobile apps fast 
+* Before this, very different skills / language to create a mobile app - this integrates the process using html, css and javascript
 
 ## Why does one use it?
 To create mobile native app using web application technology.
@@ -38,25 +38,27 @@ Ionic.io (formly drifty)
 ## What article or forum was most helpful to you in learning this?
 * The official documentation as mentioned above 
 * Also this lib for css components : http://ionicframework.com/docs/components/
+
 ## What are 3 interview questions one might be asked about this technology?
 
 questions : 
-1 What languages/ frameworks does this tech utilize 
-2 Also, please include the instructions necessary to…
+1. What languages/ frameworks does this tech utilize 
+2. Also, please include the instructions necessary to…
 
 ## To install: 
-* (dowload xcode from app store) 
+(dowload xcode from app store) 
 * ``$ npm install -g ionic`` 
 * ``$ ionic start myApp blank``
 
-* To run : 
+To run : 
 * `` $ cd myApp ``
 * `` $ ionic platform add ios``
 * ``$ ionic build ios``
 * ``$ ionic emulate ios``
 
-Run your example.
-Do I need to run bower install? Do I need an API key?
-No and no
-Do I need to include it in my HTML with
-No , you create a new app like ‘rails new’
+## Run your example.
+##Do I need to run bower install? Do I need an API key?
+* No and no
+
+## Do I need to include it in my HTML with
+* No , you create a new app like ‘rails new’
