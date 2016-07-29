@@ -42,10 +42,13 @@ Ionic.io (formly drifty)
 ## What are 3 interview questions one might be asked about this technology?
 
 questions : 
-* 1. What languages/ frameworks does this tech utilize 
-* 2. Also, please include the instructions necessary to…
+* 1. What languages/ frameworks does this tech utilize?
+* 2. Explain situations when you would and would not want to use Ionic.
 
-## To install: 
+
+## Also, please include the instructions necessary to…
+
+### To install: 
 (dowload xcode from app store) 
 * ``$ npm install -g ionic`` 
 * ``$ ionic start myApp blank``
@@ -56,9 +59,9 @@ To run :
 * ``$ ionic build ios``
 * ``$ ionic emulate ios``
 
-## Run your example.
-##Do I need to run bower install? Do I need an API key?
+### Run your example.
+### Do I need to run bower install? Do I need an API key?
 * No and no
 
-## Do I need to include it in my HTML with
+### Do I need to include it in my HTML with
 * No , you create a new app like ‘rails new’
