@@ -42,8 +42,8 @@ Ionic.io (formly drifty)
 ## What are 3 interview questions one might be asked about this technology?
 
 questions : 
-1. What languages/ frameworks does this tech utilize 
-2. Also, please include the instructions necessary to…
+* 1. What languages/ frameworks does this tech utilize 
+* 2. Also, please include the instructions necessary to…
 
 ## To install: 
 (dowload xcode from app store) 
