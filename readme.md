@@ -42,8 +42,8 @@ Ionic.io (formly drifty)
 ## What are 3 interview questions one might be asked about this technology?
 
 questions : 
-1. What languages/ frameworks does this tech utilize?  
-2. Explain situations when you would and would not want to use Ionic.  
+* What languages/ frameworks does this tech utilize?  
+* Explain situations when you would and would not want to use Ionic.  
 
 
 ## Also, please include the instructions necessary to…
